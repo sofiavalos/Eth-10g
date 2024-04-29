@@ -1,0 +1,7 @@
+Running: xsim.dir/eth_phy_10g_tx_if_tb_behav/xsimk.exe -simmode gui -wdb eth_phy_10g_tx_if_tb_behav.wdb -simrunnum 0 -socket 52263
+Design successfully loaded
+Design Loading Memory Usage: 8128 KB (Peak: 8128 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 9328 KB (Peak: 9328 KB)
+Simulation CPU Usage: 93 ms

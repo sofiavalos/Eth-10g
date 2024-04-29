@@ -1,0 +1,22 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g.v,1713140860,verilog,,C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g_rx.v,,eth_phy_10g,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g_rx.v,1713143798,verilog,,C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g_rx_ber_mon.v,,eth_phy_10g_rx,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g_rx_ber_mon.v,1713113207,verilog,,C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g_rx_frame_sync.v,,eth_phy_10g_rx_ber_mon,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g_rx_frame_sync.v,1713112494,verilog,,C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g_rx_if.v,,eth_phy_10g_rx_frame_sync,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g_rx_if.v,1713142101,verilog,,C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g_rx_watchdog.v,,eth_phy_10g_rx_if,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g_rx_watchdog.v,1713114369,verilog,,C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g_tx.v,,eth_phy_10g_rx_watchdog,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g_tx.v,1713054149,verilog,,C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g_tx_if.v,,eth_phy_10g_tx,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g_tx_if.v,1714316221,verilog,,C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/lfsr.v,,eth_phy_10g_tx_if,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/lfsr.v,1713044688,verilog,,C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/xgmii_baser_dec_64.v,,lfsr,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/xgmii_baser_dec_64.v,1713140811,verilog,,C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/xgmii_baser_enc_64.v,,xgmii_baser_dec_64,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/xgmii_baser_enc_64.v,1713053294,verilog,,C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/eth_10g_phy/eth_10g_phy.srcs/sim_1/new/eth_phy_10g_hdr_tb.v,,xgmii_baser_enc_64,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/eth_10g_phy/eth_10g_phy.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/eth_10g_phy/eth_10g_phy.srcs/sim_1/new/eth_phy_10g_hdr_tb.v,1714350701,verilog,,C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g.v,,eth_phy_10g_hdr_tb,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/eth_10g_phy/eth_10g_phy.srcs/sim_1/new/eth_phy_10g_tb.v,1714316537,verilog,,C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/eth_phy_10g_tx.v,,eth_phy_10g_tb,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/eth_10g_phy/eth_10g_phy.srcs/sim_1/new/eth_phy_10g_w_prbs31_tb.v,1714327210,verilog,,C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/Codigos Comentados/lfsr.v,,eth_phy_10g_w_prbs31tb,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/eth_10g_phy/eth_10g_phy.srcs/sim_1/new/tb3.v,1714348303,verilog,,,,eth_phy_10g_tb3,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/eth_10g_phy/eth_10g_phy.srcs/sim_1/new/test2.v,1714256271,verilog,,,,eth_phy_10g_tb2,,,,,,,,
+C:/Users/sofi5/OneDrive/Escritorio/Sofia/LCD/eth_10g_phy/eth_10g_phy.srcs/sim_1/new/tx_if_tb.v,1714316016,verilog,,,,eth_phy_10g_tx_if_tb,,,,,,,,
